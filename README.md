@@ -86,7 +86,7 @@ Various selections from Lexy's LOTD
 
 ### Why isn't (Insert mod here) included?
 Usually I do not include a mod for the following reasons:
-- It goes beyond the intention of the guide
+- It goes beyond the intention of the list
 - It possesses technical and/or compatibility issues
 - It is simply something I'm not personally interested in
 
