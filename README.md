@@ -72,3 +72,22 @@ On my pc an average of 60fps at 1080p is expected with some occasional dips
 
 
 ## FAQ
+### Sources of Inspiration?
+Skyrim Modding Essentials by ForeverPhoenix formed the baseline of the list. I thoroughly recommend it if you are looking to create your own Skyrim mod setup
+Septimus by GuitarNinja was a major design influence and this modlist is made in its spirit
+Various selections from Lexy's LOTD 
+
+### Why isn't (Insert mod here) included?
+Usually I do not include a mod for the following reasons:
+- It goes beyond the intention of the guide
+- It possesses technical and/or compatibility issues
+- It is simply something I'm not personally interested in
+
+I am open to suggestions but if you do wish to make one then keep in mind the above criteria
+
+### Can I add/remove mods?
+You're welcome to do so and can also use this list as a baseline to build off of if you wish. Keep in mind however that you will need to be responsible for things like Conflict Resolution as my help will be limited
+
+### Widescreen Support?
+I don't personally own a widescreen monitor so I am unable to test and properly support widescreen. Community support may help in this matter however
+
