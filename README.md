@@ -109,4 +109,4 @@ I don't personally own a widescreen monitor so I am unable to test and properly 
 ## Updating
 ## Removing
 ## Contacts
-- Credits
+## Credits
