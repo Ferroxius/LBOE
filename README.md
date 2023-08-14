@@ -1,4 +1,5 @@
 # Little Bit Of Everything (LBOE)
+![LBOE](https://github.com/Ferroxius/LBOE/assets/88400328/3fcd0756-04a2-4dde-9f60-b38cbb74e524)
 
 ## Contents
 - [Introduction](#introduction)
