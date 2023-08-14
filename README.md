@@ -22,7 +22,11 @@
 
 
 ## Introduction
-Welcome to LBOE, the Skyrim Anniversary Edition modlist where you simply seek to have a little bit of everything. This is a modlist that does not aim to provide the strongest visuals, the slickest gameplay or the most amount of additional content. Instead it aims to provide a more reasonable expansion to these three elements to provide something more enjoyable while still being good old Skyrim
+Welcome to LBOE, the Skyrim Anniversary Edition modlist where you simply seek to have a little bit of everything. 
+
+This is a modlist that does not aim to provide the strongest visuals, the slickest gameplay or the most amount of additional content. 
+
+Instead it aims to provide a more reasonable expansion to these three elements to provide something more enjoyable while still being good old Skyrim
 
 ## What to expect
 **Visuals**
@@ -59,6 +63,7 @@ Welcome to LBOE, the Skyrim Anniversary Edition modlist where you simply seek to
 
 ## System Requirements
 Generally speaking this list should not be highly intensive on your pc. That being said the visual quality has been improved so you will need a computer that can run Skyrim above vanilla
+
 As for my own system specifications they are as follows:
 - CPU               - AMD Ryzen 5 2600 3.4GHz
 - Motherboard       - ASRock b450 Pro4
@@ -74,7 +79,9 @@ On my pc an average of 60fps at 1080p is expected with some occasional dips
 ## FAQ
 ### Sources of Inspiration?
 Skyrim Modding Essentials by ForeverPhoenix formed the baseline of the list. I thoroughly recommend it if you are looking to create your own Skyrim mod setup
+
 Septimus by GuitarNinja was a major design influence and this modlist is made in its spirit
+
 Various selections from Lexy's LOTD 
 
 ### Why isn't (Insert mod here) included?
