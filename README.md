@@ -6,19 +6,19 @@
 - [What to expect](#what-to-expect)
 - [What not to expect](#what-not-to-expect)
 - [System Requirements](#system-requirements)
-- FAQ
-- Installation
-- Pre-Installation
-- Wabbajack Installation
-- Installing Wabbajack
-- Downloading and Installing LBOE
-- Troubleshooting Wabbajack
-- Post-Installation
-- Playing
-- Updating
-- Removing
-- Contacts
-- Credits
+- [FAQ](#faq)
+- [Installation](#installation)
+    - [Pre-Installation](#pre-installation)
+    - [Wabbajack Installation](#wabbajack-installation)
+        - [Installing Wabbajack](#installing-wabbajack)
+        - [Downloading and Installing LBOE](#downloading-and-installing-lboe)
+        - [Troubleshooting Wabbajack](#troubleshooting-wabbajack)
+    - [Post-Installation](#post-installation)
+- [Playing](#playing)
+- [Updating](#updating)
+- [Removing](#removing)
+- [Contacts](#contacts)
+- [Credits](#credits)
 
 
 ## Introduction
@@ -98,3 +98,15 @@ You're welcome to do so and can also use this list as a baseline to build off of
 ### Widescreen Support?
 I don't personally own a widescreen monitor so I am unable to test and properly support widescreen. Community support may help in this matter however
 
+## Installation
+## Pre-Installation
+## Wabbajack Installation
+## Installing Wabbajack
+## Downloading and Installing LBOE
+## Troubleshooting Wabbajack
+## Post-Installation
+## Playing
+## Updating
+## Removing
+## Contacts
+- Credits
