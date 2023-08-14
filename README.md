@@ -6,6 +6,19 @@
 - [What to expect](#what-to-expect)
 - [What not to expect](#what-not-to-expect)
 - [System Requirements](#system-requirements)
+- FAQ
+- Installation
+- Pre-Installation
+- Wabbajack Installation
+- Installing Wabbajack
+- Downloading and Installing LBOE
+- Troubleshooting Wabbajack
+- Post-Installation
+- Playing
+- Updating
+- Removing
+- Contacts
+- Credits
 
 
 ## Introduction
@@ -56,3 +69,6 @@ As for my own system specifications they are as follows:
 - PSU               - EVGA Bronze 80+ 500W
 
 On my pc an average of 60fps at 1080p is expected with some occasional dips
+
+
+## FAQ
