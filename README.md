@@ -32,7 +32,8 @@ Instead it aims to provide a more reasonable expansion to these three elements t
 **Visuals**
 - Project Clarity providing a baseline improvement
 - Skyland AIO and Cathedral Landscapes dealing with most environmental improvements alongside smaller accompanying mods
-- Most major components of the Cathedral Concept for armor, appearance, etc.
+- Cathedral Weathers and Luminosity dealing with all matters weather and lighting
+- Tempered Skins and other selected mods improving the general appearance of NPCs and the Player
 - Postprocessing improvements from the Community Shaders
 
 **Gameplay**
