@@ -32,9 +32,8 @@ Instead it aims to provide a more reasonable expansion to these three elements t
 **Visuals**
 - Project Clarity providing a baseline improvement
 - Skyland AIO and Cathedral Landscapes dealing with most environmental improvements alongside smaller accompanying mods
+- Most major components of the Cathedral Concept for armor, appearance, etc.
 - Postprocessing improvements from the Community Shaders
-- Cathedral Armory dealing with most armour and weapon improvements alongside smaller accompanying mods
-- Tempered Skins series dealign with NPC and Player appearances alongside smaller accompanying mods
 
 **Gameplay**
 - Parts of SimonMagnus's gameplay overhaul series is used. The entire suite is not used
