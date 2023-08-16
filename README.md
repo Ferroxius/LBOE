@@ -33,7 +33,7 @@ Instead it aims to provide a more reasonable expansion to these three elements t
 - Project Clarity providing a baseline improvement
 - Skyland AIO dealing with most environmental improvements alongside smaller accompanying mods
 - RAID Weathers and Ambiance dealing with all matters weather and lighting
-- Tempered Skins and other selected mods improving the general appearance of NPCs and the Player
+- Nordic Faces and other selected mods improving the general appearance of NPCs and the Player
 - Postprocessing improvements from the Community Shaders
 
 **Gameplay**
@@ -54,6 +54,7 @@ Instead it aims to provide a more reasonable expansion to these three elements t
 
 **Gameplay**
 - New major systems such as faiths and classes
+- Anything that would make the game more "hardcore"
 
 **New Content**
 - Legacy of the Dragonborn
