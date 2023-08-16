@@ -99,11 +99,51 @@ You're welcome to do so and can also use this list as a baseline to build off of
 ### Widescreen Support?
 I don't personally own a widescreen monitor so I am unable to test and properly support widescreen. Community support may help in this matter however
 
-## Installation
+### GOG Support?
+I don't own Skyrim on GOG so I am unable to test and properly support it
+
+# Installation
 ## Pre-Installation
+**Base Requirements**
+- Skyrim Anniversary Edition + DLC Upgrade on Steam (Clean reinstall required)
+- Creation Kit on Steam
+- Latest version of windows 10
+- A nexus mods account (Premium is recommended by Wabbajack to automate installation but you can use a free one)
+- Latest NVIDIA/AMD Drivers
+- 125GB of storage space available in total (75GB of installed mods and about 50GB of downloads)
+
+**MO2 Requirements**
+- [Latest Microsoft Visual C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+- [Latest .NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+
+**Setting up Skyrim**
+- Confirm first that you are on the latest version of Skyrim (version 1.6.640.0). You can check by going to SkyrimSE.exe, right-clicking and selecting **Details**
+- Launch Skyrim at least once. This is to allow it to generate important ini files as well as make sure you've downloaded all CC
+
+**Set the game language to English**
+This is a temporary measure as Wabbajack requires the english version of the game to work correctly. You can revert the language back after installation
+
+**Setting up Creation Kit**
+- When installing Creation Kit ensure it is installed inside Skyrim Special Edition's directory (Same folder as its .exe file)
+- Run Creation Kit at least once. On starting up it'll ask you to extract scripts, click yes and wait for that to finish
+- Once Creation Kit has finished loading, exit.
+
 ## Wabbajack Installation
 ## Installing Wabbajack
+Download [Wabbajack](https://www.wabbajack.org/)
+- Extract the file and place it in an easy to access location. DO NOT however place it inside any UAC controlled folders e.g. Program Files, Program Files (x86), Downloads, Documents, etc.
+- For reference my wabbajack location is C:\Games\Modding\Wabbajack
+- Double click wabbajack.exe and let the program update itself if needed
+
 ## Downloading and Installing LBOE
+Click "Browse Modlists" in Wabbajacks menu
+find "Little Bit Of Everything (LBOE)" in the gallery and click on the arrow button to download the installation file
+In the installation window, you will be asked to define the locations of two folders:
+- Installation Location which is where LBOE will be installed. Choose an easy to access folder such as C:\Aurora\ that is outside UAC protected folders (Program Files, Documents, etc).
+
+Download Location is where the downloaded mod archives will be stored. By default, they will be placed within your main Aurora folder, but you can change the file path if you want to keep the files elsewhere.
+
+Once both folder locations have been set, click the button on the right to begin the installation process.
 ## Troubleshooting Wabbajack
 ## Post-Installation
 ## Playing
