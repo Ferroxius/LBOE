@@ -10,15 +10,11 @@
 - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
     - [Wabbajack Installation](#wabbajack-installation)
-        - [Installing Wabbajack](#installing-wabbajack)
-        - [Downloading and Installing LBOE](#downloading-and-installing-lboe)
-        - [Troubleshooting Wabbajack](#troubleshooting-wabbajack)
     - [Post-Installation](#post-installation)
-- [Playing](#playing)
+- [Playing and MCM Configuration](#playing-and-mcm-configuration)
 - [Updating](#updating)
 - [Removing](#removing)
 - [Contacts](#contacts)
-- [Credits](#credits)
 
 
 ## Introduction
@@ -129,25 +125,45 @@ This is a temporary measure as Wabbajack requires the english version of the gam
 - Once Creation Kit has finished loading, exit.
 
 ## Wabbajack Installation
-## Installing Wabbajack
+**Installing Wabbajack**
 Download [Wabbajack](https://www.wabbajack.org/)
 - Extract the file and place it in an easy to access location. DO NOT however place it inside any UAC controlled folders e.g. Program Files, Program Files (x86), Downloads, Documents, etc.
 - For reference my wabbajack location is C:\Games\Modding\Wabbajack
 - Double click wabbajack.exe and let the program update itself if needed
 
-## Downloading and Installing LBOE
+**Downloading and Installing LBOE**
 Click "Browse Modlists" in Wabbajacks menu
 find "Little Bit Of Everything (LBOE)" in the gallery and click on the arrow button to download the installation file
 In the installation window, you will be asked to define the locations of two folders:
 - Installation Location which is where LBOE will be installed. Choose an easy to access folder such as C:\Aurora\ that is outside UAC protected folders (Program Files, Documents, etc).
+- Download Location which is where the downloaded mod archives will be stored. The default location is within MO2s downloads folder but if you want you can set it to an external folde
+- Once the folder locations have been set click the button on the right to start installation
 
-Download Location is where the downloaded mod archives will be stored. By default, they will be placed within your main Aurora folder, but you can change the file path if you want to keep the files elsewhere.
+Now wabbajack will begin installing the list. If you have a nexus premium account this will be automatic so sit back and wait. If you have a normal account however you will need to download each mod manually. Wabbajack will make this easier for you though by showing the download page instantly, you just need to click download is all
 
-Once both folder locations have been set, click the button on the right to begin the installation process.
-## Troubleshooting Wabbajack
+**Troubleshooting Wabbajack**
+If Wabbajack idles or fails installation the first thing I would suggest is just restart Wabbajack. It'll pick up right where it left off and you wont lose any progress
+
+If Wabbajack continues to have trouble then I'd suggest joining Aetherius modding (Link in [Contacts](#contacts)) and finding LBOE's channel to inquire there
+
 ## Post-Installation
-## Playing
+Open up Mod Organizer 2. Everything should be installed and generally shouldnt require any tweaking unless you plan on modifying the setup
+
+To start the game select skse in the top right drop down menu and click Run. Skyrim should launch not too long afterwards
+
+## Playing and MCM configuration
+When you start a new game you won't find yourself in the vanilla intro but instead in a cell. This is Alternate Start which allows you to select a bunch of different ways to start your playthrough. Create your character and select your start. I would personally not recommend choosing the vanilla start as it is notoriously easy to break
+
+In Mod Configuration there are a few available to use. The list doesn't specifically follow any settings so configure the mods however you wish
+
 ## Updating
+Updating is very similar to installing the list. Simply make sure your paths are the same and tick the overwrite existing modlist button. 
+Some things to keep in mind:
+- Any mods you have added will be deleted when updating.
+- Its recommended to back up your saves. You may need to start a new game after some updates. I'll notify in the changelog if this is needed.
+
 ## Removing
+Simply delete the folder containing the modlist
+
 ## Contacts
-## Credits
+I am primarily found at [Aetherius Modding](https://discord.gg/aetherius-modding)
