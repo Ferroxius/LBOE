@@ -24,6 +24,7 @@ This is a modlist that does not aim to provide the strongest visuals, the slicke
 
 Instead it aims to provide a more reasonable expansion to these three elements to provide something more enjoyable while still being good old Skyrim
 
+[Link to load order for a better idea of what the list contains](https://loadorderlibrary.com/lists/little-bit-of-everything-lboe)
 ## What to expect
 **Visuals**
 - Project Clarity providing a baseline improvement
