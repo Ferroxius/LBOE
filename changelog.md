@@ -10,6 +10,7 @@
 - Immersive College of Winterhold Patch Collection
 
 
+
 - JK's Angelines Aromantics
 - JK's Arcadia's Cauldron
 - JK's Arnleif and Sons Trading Company
@@ -59,6 +60,7 @@
 - JK's Windhelm Outskirts
 
 
+
 - Nethers Follower Framework
 - Remember Lockpick Angle
 - Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts
@@ -68,6 +70,7 @@
 - Simply Knock SKSE64 DLL
 - Simply Knock - Tower Stone Fix
 - Songs to play Skyrim to
+
 
 
 ### Removed
@@ -86,8 +89,10 @@ The Following are removed because they are made redundant by SCROTE
 - MQ105SprintTriggerScriptFix
 
 
+
 - The Paarthunax Resolution (Decided Paarthunax Quest Expansion offered a more fitting conclusion)
 - i4 Icon Colours (Accidentally leftover from previous builds)
+
 
 
 ### Updated/Edited
