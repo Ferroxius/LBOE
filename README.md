@@ -34,7 +34,7 @@ Instead it aims to provide a more reasonable expansion to these three elements t
 - Postprocessing improvements from the Community Shaders
 
 **Gameplay**
-- Parts of SimonMagnus's gameplay overhaul series is used. The entire suite is not used
+- Parts of SimonMagus's gameplay overhaul series is used. The entire suite is not used
 - General gameplay uplifts from Precision, True Directional Movement, etc.
 
 **New Content**
