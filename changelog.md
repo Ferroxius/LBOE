@@ -87,7 +87,7 @@ The Following are removed because they are made redundant by SCROTE
 - DLC2PillarBuilderActorScript Tweak
 - DLC2AudioRepeaterActivator01Script Tweak
 - MQ105SprintTriggerScriptFix
-
+(End of SCROTE Redundant Mods)
 
 
 - The Paarthunax Resolution (Decided Paarthunax Quest Expansion offered a more fitting conclusion)
