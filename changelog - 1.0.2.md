@@ -16,6 +16,9 @@
 ### General Visual Improvement
 - Skyland AIO (Installed Skyland Landscapes alongside the rest of the mod)
 
+### Flora
+- Fantastic Grasses and Where to Find Them - A Skyrim Grass Mod
+
 ### Community Shaders
 - Light Limit Fix
 
@@ -66,6 +69,7 @@
 - Modern Brawl Bug Fix (Already incorporated in a number of other mods)
 - Simply Knock DLL (This was for some reason bundled into Simply Knock and was overwriting papyrusUtil's updated DLL)
 - Relighting Skyrim (The recent addition of JK and Ryn's Skyrim caused too many issues with the mod)
+- Cathedral Landscapes (Prefer Fantastic Grasses + Skyland Landscapes)
 
 ## Updated
 - Skyrim Script Extender - Changed source to the nexus page for easier wabbajack function
