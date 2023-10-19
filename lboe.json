@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Little Bit of Everything",
+    "description": "A lightweight Skyrim AE modlist aimed at providing a general improvement to gameplay, visuals and content without going overboard ",
+    "author": "<Ferroxius>",
+    "maintainers": [
+      "github/<Ferroxius>"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "new content",
+      "vanilla orientated",
+      "performance friendly"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "<https://imgur.com/a/6vSQVjz>",
+      "readme": "<https://github.com/Ferroxius/LBOE/blob/main/README.md>",
+      "download": "https://github.com/Ferroxius/LBOE/releases/latest",
+      "machineURL": "machineURL",
+      "discordURL": "<https://discord.gg/aetherius-modding>"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 14,
+      "SizeOfArchives": 135206078,
+      "NumberOfInstalledFiles": 1311,
+      "SizeOfInstalledFiles": 336453775
+    },
+    "version": "1.0"
+  }
+]
