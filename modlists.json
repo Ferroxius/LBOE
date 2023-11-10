@@ -18,7 +18,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://i.imgur.com/lBJdtbS.png",
+      "image": "https://raw.githubusercontent.com/Ferroxius/LBOE/261319278-517ee4aa-293f-4704-bb54-1709dd0a01be.png",
       "readme": "https://raw.githubusercontent.com/Ferroxius/LBOE/main/README.md",
       "download": "https://github.com/Ferroxius/LBOE/releases/download/1.0.2a/Little.Bit.of.Everything.wabbajack",
       "machineURL": "LBOE",
