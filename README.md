@@ -1,6 +1,8 @@
 # Little Bit Of Everything (LBOE)
 ![LBOE3](https://github.com/Ferroxius/LBOE/assets/88400328/517ee4aa-293f-4704-bb54-1709dd0a01be)
 
+# This list is currently not compatible with Skyrim v1.6.130! This issue will be resolved soon, so please be patient
+
 ## Contents
 - [Introduction](#introduction)
 - [What to expect](#what-to-expect)
