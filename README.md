@@ -116,7 +116,7 @@ I don't own Skyrim on GOG so I am unable to test and properly support it
 - [Latest .NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
 **Setting up Skyrim**
-- Confirm first that you are on the latest version of Skyrim (version 1.6.640.0). You can check by going to SkyrimSE.exe, right-clicking and selecting **Details**
+- Confirm first that you are on the latest version of Skyrim (version 1.6.1130). You can check by going to SkyrimSE.exe, right-clicking and selecting **Details**
 - Launch Skyrim at least once. This is to allow it to generate important ini files as well as make sure you've downloaded all CC
 
 **Set the game language to English**
