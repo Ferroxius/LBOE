@@ -133,7 +133,7 @@ Download [Wabbajack](https://www.wabbajack.org/)
 - Double click wabbajack.exe and let the program update itself if needed
 
 **Downloading and Installing LBOE**
-Click "Browse Modlists" in Wabbajacks menu
+Click "Browse Modlists" in Wabbajacks menu as well as "Show Unofficial Lists" and filter by "Skyrim Special Edition"
 find "Little Bit Of Everything (LBOE)" in the gallery and click on the arrow button to download the installation file
 In the installation window, you will be asked to define the locations of two folders:
 - Installation Location which is where LBOE will be installed. Choose an easy to access folder such as C:\Games\ that is outside UAC protected folders (Program Files, Documents, etc).
