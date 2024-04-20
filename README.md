@@ -43,7 +43,7 @@ Instead it aims to provide a more reasonable expansion to these three elements t
 - New followers, quests and NPCs from Interesting NPCs
 
 
-# What not to expect
+## What not to expect
 **Visuals**
 - Any major NPC appearance overhauls
 - Texture and mesh quality highly above Skyrim's original quality
