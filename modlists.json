@@ -21,21 +21,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ferroxius/LBOE/main/LBOETest.png",
       "readme": "https://raw.githubusercontent.com/Ferroxius/LBOE/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Little Bit Of Everything.wabbajack_8bcee6cf-f9c0-48e4-88cf-a79ae583d18c",
+      "download": "https://authored-files.wabbajack.org/Little Bit Of Everything.wabbajack_8a742a90-c0d1-4910-93df-5bd8c15141d6",
       "machineURL": "LBOE",
       "discordURL": "https://discord.gg/aetherius-modding"
     },
     "download_metadata": {
-      "Hash": "MMy/rFfJh0E=",
-      "Size": 58986238,
-      "NumberOfArchives": 721,
-      "SizeOfArchives": 75153678664,
-      "NumberOfInstalledFiles": 96112,
-      "SizeOfInstalledFiles": 90102057775
+      "Hash": "aL+M7F11I8w=",
+      "Size": 59472303,
+      "NumberOfArchives": 714,
+      "SizeOfArchives": 75030972147,
+      "NumberOfInstalledFiles": 91678,
+      "SizeOfInstalledFiles": 91937636553
     },
     "version": "1.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-04-20T14:51:08.2497091Z",
+    "dateUpdated": "2024-04-25T17:50:23.8840138Z",
     "repositoryName": ""
   }
 ]
