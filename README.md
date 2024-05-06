@@ -152,7 +152,7 @@ Open up Mod Organizer 2. Everything should be installed and generally shouldnt r
 To start the game select skse in the top right drop down menu and click Run. Skyrim should launch not too long afterwards
 
 ## Playing and MCM configuration
-When you start a new game you won't find yourself in the vanilla intro but instead in a cell. This is Alternate Start which allows you to select a bunch of different ways to start your playthrough. Create your character and select your start. I would personally not recommend choosing the vanilla start as it is notoriously easy to break
+When you start a new game you will be presented with an option to skip the intro. This is Optional Quick Start. If you choose No the vanilla intro sequence will play out as normal, if you choose Yes you will spawn at the exit to Helgen Keep and will continue from there. Note that the vanilla intro will always be a bit janky so play through it at your own risk of it breaking.
 
 In Mod Configuration there are a few available to use. The list doesn't specifically follow any settings so configure the mods however you wish
 
